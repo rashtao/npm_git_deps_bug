@@ -1,0 +1,8 @@
+{
+  "name": "npm_deps_test",
+  "version": "0.0.1",
+  "dependencies": {
+    "bunyan": "^1.4.0",
+    "npm_deps_test_dep": "file:../npm_deps_test_dep"
+  }
+}
