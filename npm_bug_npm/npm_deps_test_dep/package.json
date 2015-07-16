@@ -1,6 +1,7 @@
 {
   "name": "npm_deps_test_dep",
   "version": "0.0.1",
+  "main": "./app.js",
   "dependencies": {
     "bunyan": "^1.4.0"
   }
